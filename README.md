@@ -1,6 +1,6 @@
 # covaud-19
-A web scraper to get latest data related to Covid-19 shared by the Canton de Vaud
+Covaud-19 is a web scraper to get latest historical data about Covid-19 evolution shared by the Canton de Vaud
 
-Here is a web scraper to get the latest Coronavirus data available for Canton VD, following the standard template provided in https://github.com/openZH/covid_19.
+It saves the data in a CSV file following the template provided in https://github.com/openZH/covid_19.
 
-Data source used by this scraper does not include data prior to 10/03/2020.
+The data source used by this scraper does not include data prior to 10/03/2020.
